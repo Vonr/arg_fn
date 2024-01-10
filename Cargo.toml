@@ -1,0 +1,15 @@
+[package]
+name = "arg_fn"
+version = "1.0.0"
+edition = "2021"
+description = "Argument parsing with higher order functions"
+license = "MIT"
+readme = "README.md"
+homepage = "https://github.com/Vonr/arg_fn"
+repository = "https://github.com/Vonr/arg_fn"
+keywords = ["cli", "parsing"]
+include = ["src/lib.rs", "README.md", "build.rs"]
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
